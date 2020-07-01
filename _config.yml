@@ -1,0 +1,11 @@
+# basic options
+title: CSE9107 프로세스마이닝
+author: 도경구
+email: doh@hanyang.ac.kr
+description: 한양대학교 대학원 컴퓨터공학과
+twitter_username:
+github_username: Doggzone
+
+# Build settings
+markdown: kramdown
+theme: minima
