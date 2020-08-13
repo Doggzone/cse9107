@@ -20,14 +20,28 @@
 
 ### 수업운영방식
 
-- 이론 숙제 (매주)
+- 이론 숙제
 - 퀴즈 2회
 - 프로젝트 2회
 
 ### 교재
 
 - van der Aalst,, [Process Mining, 2nd Edition](), Springer, 2016.
+- [Coursera](https://www.coursera.org/learn/process-mining)
 
+### 소프트웨어
+
+- [ProM Lite 1.2](http://www.promtools.org/doku.php)
+  - [Example event log files](http://www.promtools.org/prom6/downloads/example-logs.zip)
+  - [Information on getting started](http://www.promtools.org/doku.php?id=gettingstarted:start)
+  - [A ProM 6 tutorial](http://www.promtools.org/doku.php?id=tutorial:start)
+  - [ProM 6 exercises](http://www.promtools.org/doku.php?id=exercises:start)
+- [Disco](https://fluxicon.com/disco/)
+- [RapidMiner](https://rapidminer.com/)
+
+### 참고 자료
+
+- [IEEE 1849-2016 XES Standard](http://www.xes-standard.org/)
 
 ### 수업 일정
 
