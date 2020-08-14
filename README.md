@@ -18,12 +18,6 @@
 - 이론 강의
 - ProM 도구 활용 개별 프로젝트 수행 및 발표
 
-### 수업운영방식
-
-- 이론 숙제
-- 퀴즈 2회
-- 프로젝트 2회
-
 ### 교재
 
 - van der Aalst,, [Process Mining, 2nd Edition](), Springer, 2016.
@@ -42,31 +36,35 @@
   - [A ProM 6 tutorial](http://www.promtools.org/doku.php?id=tutorial:start)
   - [ProM 6 exercises](http://www.promtools.org/doku.php?id=exercises:start)
 - [Disco](https://fluxicon.com/disco/)
-- [RapidMiner](https://rapidminer.com/)
+- [RapidMiner](https://rapidminer.com/), [RapidProM](https://www.rapidprom.org/)
 
 ### 수업 일정
 
-| 주 | 일 | 내용                                     | 비고   | 자료                                                                                          | 숙제 |
+| 주 | 일 | 내용                                     | 교재   | 자료                                                                                          | 숙제 |
 |:--:|:--:|:----------------------------------------:|:------:|:---------------------------------------------------------------------------------------------:|:----:|
-| 1  |    |               Introduction – Data Science in Action               |   \-   |   |      |
-| 2  |    | Process Mining : The Missing Link |     |   |      |
-| 3  |    |          Process Modeling and Analysis           |     |   |      |
-| 4  |    |      Data Mining      |      |   |      |
-| 5  |    |          Getting the Data           |      |   |      |
-| 6  |    |              Process Discovery : An Introduction             |     |   |      |
-| 7  |    | Advanced Process Discovery Techniques | 퀴즈#1 |   |      |
-| 8  |    |             Project #1 Presentation              |     |   |      |
-| 9  |    |          Conformance Checking          |      |   |      |
-| 10 |    |              Mining Additional Perspectives               |      |   |      |
-| 11 |    |     Operational Support      |   퀴즈#2  |  |      |
-| 12 |    |      Process Mining Software, Process Mining in the Large      |      |  |      |
-| 13 |    |          Analyzing “Lasagna Processes”           |  |                                                                                               |      |
-| 14 |    |             Analyzing “Spaghetti Processes”              |     |                                                                                               |      |
-| 15 |    |               Project #2 Presentation               |      |                                                                                               |      |
+| 1  |  9/1  |  Introduction - Process Mining: Data Science in Action  | Ch 1, 2 |   |      |
+| 2  |  9/8  |  Overview of Data Mining Techniques |  Ch 4   |   |      |
+| 3  |  9/15  |  Process Modeling and Analysis  | Ch 3 |   |      |
+| 4  |  9/22  |  Process Modeling and Analysis  | Ch 3 |   |      |
+| 5  |  9/29  |  Event Logs  |      |   |      |
+| 6  |  10/6  |  Process Discovery: An Introduction  | Ch 5  |   |      |
+| 7  |  10/13  |  Advanced Process Discovery Techniques  | Ch 6 |   |      |
+| 8  |  10/20  |  Advanced Process Discovery Techniques  |  Ch 7  |   |      |
+| 9  |  10/27  |  Comformance Checking  |  Ch 8  |   |      |
+| 10 |  11/3  |  Mining Additional Perspectives  |   Ch 9   |   |      |
+| 11 |  11/10  | Mining Additional Perspectives  | Ch 9  |  |      |
+| 12 |  11/17  | Operational Support | Ch 10  |  |      |
+| 13 |  11/24  | Process Mining Software | Ch 11 |                                                                                               |      |
+| 14 |  12/1  |  Project Mining in the Large |  Ch 12-14   |                                                                                               |      |
+| 15 |  12/8  |  Project Presentation  |      |                                                                                               |      |
 
 ### 평가
 
-- (to be determined)
+- 출석 10%
+- 학습 참여도 10%
+- 과제 30%
+- 퀴즈 30% = 10% x 3
+- 프로젝트 20%
 
 ### 교수진
 
