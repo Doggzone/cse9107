@@ -27,7 +27,7 @@
 ### 교재
 
 - van der Aalst,, [Process Mining, 2nd Edition](), Springer, 2016.
-- [Coursera](https://www.coursera.org/learn/process-mining)
+- [Lectures in Coursera](https://www.coursera.org/learn/process-mining)
 
 ### 소프트웨어
 
@@ -65,7 +65,7 @@
 
 ### 평가
 
--	
+- (to be determined)
 
 ### 교수진
 
