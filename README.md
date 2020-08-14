@@ -29,6 +29,11 @@
 - van der Aalst,, [Process Mining, 2nd Edition](), Springer, 2016.
 - [Lectures in Coursera](https://www.coursera.org/learn/process-mining)
 
+### 참고 자료
+
+- [ProcessMining.org](http://www.processmining.org/)
+- [IEEE 1849-2016 XES Standard](http://www.xes-standard.org/)
+
 ### 소프트웨어
 
 - [ProM Lite 1.2](http://www.promtools.org/doku.php)
@@ -38,10 +43,6 @@
   - [ProM 6 exercises](http://www.promtools.org/doku.php?id=exercises:start)
 - [Disco](https://fluxicon.com/disco/)
 - [RapidMiner](https://rapidminer.com/)
-
-### 참고 자료
-
-- [IEEE 1849-2016 XES Standard](http://www.xes-standard.org/)
 
 ### 수업 일정
 
