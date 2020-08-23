@@ -20,7 +20,7 @@
 
 ### 교재
 
-- van der Aalst,, [Process Mining, 2nd Edition](), Springer, 2016.
+- van der Aalst,, [Process Mining, 2nd Edition](https://www.springer.com/gp/book/9783662498507), Springer, 2016.
 - [Lectures in Coursera](https://www.coursera.org/learn/process-mining)
 
 ### 참고 자료
