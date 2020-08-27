@@ -27,6 +27,7 @@
 
 - [ProcessMining.org](http://www.processmining.org/)
 - [IEEE 1849-2016 XES Standard](http://www.xes-standard.org/)
+- [Process Mining Conference](https://icpmconference.org/)
 
 ### 소프트웨어
 
@@ -42,8 +43,8 @@
 
 | 주 | 일 | 내용                                     | 교재   | 자료                                                                                          | 숙제 |
 |:--:|:--:|:----------------------------------------:|:------:|:---------------------------------------------------------------------------------------------:|:----:|
-| 1  |  9/1  |  Introduction - Process Mining: Data Science in Action  | Ch 1, 2 |   |      |
-| 2  |  9/8  |  Overview of Data Mining Techniques |  Ch 4   |   |      |
+| 1  |  9/1  |  Introduction - Process Mining: Data Science in Action  | Ch 1, 2 | Video 1.1-1.3  |      |
+| 2  |  9/8  |  Overview of Data Mining Techniques |  Ch 4   | Video 1.4-1.8  |      |
 | 3  |  9/15  |  Process Modeling and Analysis  | Ch 3 |   |      |
 | 4  |  9/22  |  Process Modeling and Analysis  | Ch 3 |   |      |
 | 5  |  9/29  |  Event Logs  |      |   |      |
