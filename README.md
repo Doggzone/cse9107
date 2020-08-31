@@ -22,6 +22,9 @@
 
 - van der Aalst,, [Process Mining, 2nd Edition](https://www.springer.com/gp/book/9783662498507), Springer, 2016.
 - [Lectures in Coursera](https://www.coursera.org/learn/process-mining)
+- 강의 슬라이드 : 
+[Chapter 1](https://drive.google.com/file/d/18b2_pS3ZSUuaW_l_JvfPIxwb7AhxaX29/view?usp=sharing), 
+[Chapter 2](https://drive.google.com/file/d/18bHxkAfPeBUZwB3OGjfRf84FEWTrVrMi/view?usp=sharing),
 
 ### 참고 자료
 
