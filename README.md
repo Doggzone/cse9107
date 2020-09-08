@@ -20,11 +20,8 @@
 
 ### 교재
 
-- van der Aalst,, [Process Mining, 2nd Edition](https://www.springer.com/gp/book/9783662498507), Springer, 2016.
+- van der Aalst, [Process Mining, 2nd Edition](https://www.springer.com/gp/book/9783662498507), Springer, 2016.
 - [Lectures in Coursera](https://www.coursera.org/learn/process-mining)
-- 강의 슬라이드 : 
-[Chapter 1](https://drive.google.com/file/d/18b2_pS3ZSUuaW_l_JvfPIxwb7AhxaX29/view?usp=sharing), 
-[Chapter 2](https://drive.google.com/file/d/18bHxkAfPeBUZwB3OGjfRf84FEWTrVrMi/view?usp=sharing),
 
 ### 참고 자료
 
@@ -44,10 +41,10 @@
 
 ### 수업 일정
 
-| 주 | 일 | 내용                                     | 교재   | 자료                                                                                          | 숙제 |
+| 주 | 일 | 내용                                     | 교재   | Coursera                                                                                          | 숙제 |
 |:--:|:--:|:----------------------------------------:|:------:|:---------------------------------------------------------------------------------------------:|:----:|
-| 1  |  9/1  |  Introduction - Process Mining: Data Science in Action  | Ch 1, 2 | Video 1.1-1.3  |      |
-| 2  |  9/8  |  Overview of Data Mining Techniques |  Ch 4   | Video 1.4-1.8  |      |
+| 1  |  9/1  |  [Introduction - Process Mining: Data Science in Action]()  | [Ch 1](https://drive.google.com/file/d/18b2_pS3ZSUuaW_l_JvfPIxwb7AhxaX29/view?usp=sharing), [Ch 2](https://drive.google.com/file/d/18bHxkAfPeBUZwB3OGjfRf84FEWTrVrMi/view?usp=sharing) | Video 1.1-1.3  |      |
+| 2  |  9/8  |  Overview of Data Mining Techniques |  [Ch 4](https://drive.google.com/file/d/1WAn9XOHni7cWWOT4UcxkOjI2FsmHBubf/view?usp=sharing)   | Video 1.4-1.8  |      |
 | 3  |  9/15  |  Process Modeling and Analysis  | Ch 3 |   |      |
 | 4  |  9/22  |  Process Modeling and Analysis  | Ch 3 |   |      |
 | 5  |  9/29  |  Event Logs  |      |   |      |
