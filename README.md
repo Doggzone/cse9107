@@ -43,12 +43,12 @@
 
 | 주 | 일 | 내용                                     | 교재   | Coursera                                                                                          | 숙제 |
 |:--:|:--:|:----------------------------------------:|:------:|:---------------------------------------------------------------------------------------------:|:----:|
-| 1  |  9/1  |  [Introduction - Process Mining: Data Science in Action]()  | [Ch 1](https://drive.google.com/file/d/18b2_pS3ZSUuaW_l_JvfPIxwb7AhxaX29/view?usp=sharing), [Ch 2](https://drive.google.com/file/d/18bHxkAfPeBUZwB3OGjfRf84FEWTrVrMi/view?usp=sharing) | Video 1.1-1.3  |      |
-| 2  |  9/8  |  Overview of Data Mining Techniques |  [Ch 4](https://drive.google.com/file/d/1WAn9XOHni7cWWOT4UcxkOjI2FsmHBubf/view?usp=sharing)   | Video 1.4-1.8  |      |
-| 3  |  9/15  |  Process Modeling and Analysis  | Ch 3 |   |      |
-| 4  |  9/22  |  Process Modeling and Analysis  | Ch 3 |   |      |
-| 5  |  9/29  |  Event Logs  |      |   |      |
-| 6  |  10/6  |  Process Discovery: An Introduction  | Ch 5  |   |      |
+| 1  |  9/1  |  Introduction - Process Mining: Data Science in Action  | Ch 1, Ch 2 | Video 1.1-1.3  |      |
+| 2  |  9/8  |  Overview of Data Mining Techniques |  Ch 4   | Video 1.4-1.8  |      |
+| 3  |  9/15  |  Process Modeling and Analysis  | Ch 5, Ch 3 | Video 2.1-2.3  |      |
+| 4  |  9/22  |  Process Modeling and Analysis  | Ch 3 | Video 2.4  |      |
+| 5  |  9/29  |  Process Discovery: An Introduction | Video 2.5- |   |      |
+| 6  |  10/6  |    | Ch 6  |   |      |
 | 7  |  10/13  |  Advanced Process Discovery Techniques  | Ch 6 |   |      |
 | 8  |  10/20  |  Advanced Process Discovery Techniques  |  Ch 7  |   |      |
 | 9  |  10/27  |  Comformance Checking  |  Ch 8  |   |      |
