@@ -55,8 +55,8 @@
 | 10 |  11/10  |  Comformance Checking  |   Ch 8   |   |      |
 | 11 |  11/17  | Mining Additional Perspectives  | Ch 9  |  |      |
 | 12 |  11/24  | Operational Support | Ch 10  |  |      |
-| 13 |  12/1  | Process Mining Tool Tour: [ProM](https://drive.google.com/drive/folders/10lqB7eSehyB6yMc1HYQUfvQJ40LlUIZ5?usp=sharing), [Disco](https://drive.google.com/drive/folders/13YC06BR0gaUI4j5nk0Dyqm3Q8MkWGGbq?usp=sharing) | Ch 12-14 |                                                                                               |      |
-| 14 |  12/8  | Project Mining in the Large |  Ch 11   |                                                                                               |      |
+| 13 |  12/1  | Project Mining in the Large | Ch 11 |                                                                                               |      |
+| 14 |  12/8  | Process Mining Tool Tour: [ProM](https://drive.google.com/drive/folders/10lqB7eSehyB6yMc1HYQUfvQJ40LlUIZ5?usp=sharing), [Disco](https://drive.google.com/drive/folders/13YC06BR0gaUI4j5nk0Dyqm3Q8MkWGGbq?usp=sharing) | Ch 12-14    |                                                                                               |      |
 | 15 |  12/15  |  Final Presentation  |      |                                                                                               |      |
 
 
