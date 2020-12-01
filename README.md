@@ -51,13 +51,14 @@
 | 6  |  10/6  |  Advanced Process Discovery Techniques  | Ch 6  |   |      |
 | 7  |  10/13  |  Advanced Process Discovery Techniques  | Ch 7 |   |      |
 | 8  |  10/20  |  Advanced Process Discovery Techniques  |  Ch 3,7  |   |      |
-| 9  |  10/27  |  Advanced Process Discovery Techniques  |  Ch 8  |   |      |
+| 9  |  10/27  |  Comformance Checking  |  Ch 8  |   |      |
 | 10 |  11/10  |  Comformance Checking  |   Ch 8   |   |      |
-| 11 |  11/17  | Comformance Checking  | Ch 8  |  |      |
-| 12 |  11/24  | Mining Additional Perspectives | Ch 9  |  |      |
-| 13 |  12/1  | Operational Support | Ch 10-11 |                                                                                               |      |
-| 14 |  12/8  |  Project Mining in the Large |  Ch 12-14   |                                                                                               |      |
-| 15 |  12/15  |  Project Presentation  |      |                                                                                               |      |
+| 11 |  11/17  | Mining Additional Perspectives  | Ch 9  |  |      |
+| 12 |  11/24  | Operational Support | Ch 10  |  |      |
+| 13 |  12/1  | Process Mining Tool Tour: [ProM](https://drive.google.com/drive/folders/10lqB7eSehyB6yMc1HYQUfvQJ40LlUIZ5?usp=sharing), [Disco](https://drive.google.com/drive/folders/13YC06BR0gaUI4j5nk0Dyqm3Q8MkWGGbq?usp=sharing) | Ch 12-14 |                                                                                               |      |
+| 14 |  12/8  | Project Mining in the Large |  Ch 11   |                                                                                               |      |
+| 15 |  12/15  |  Final Presentation  |      |                                                                                               |      |
+
 
 ### 평가
 
