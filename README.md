@@ -28,6 +28,7 @@
 - [ProcessMining.org](http://www.processmining.org/)
 - [IEEE 1849-2016 XES Standard](http://www.xes-standard.org/)
 - [Process Mining Conference](https://icpmconference.org/)
+- [Process Discovery Contest](https://www.tf-pm.org/competitions-awards/discovery-contest)
 
 ### 소프트웨어
 
