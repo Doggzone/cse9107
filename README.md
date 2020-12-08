@@ -32,11 +32,7 @@
 
 ### 소프트웨어
 
-- [ProM Lite 1.2](http://www.promtools.org/doku.php)
-  - [Example event log files](http://www.promtools.org/prom6/downloads/example-logs.zip)
-  - [Information on getting started](http://www.promtools.org/doku.php?id=gettingstarted:start)
-  - [A ProM 6 tutorial](http://www.promtools.org/doku.php?id=tutorial:start)
-  - [ProM 6 exercises](http://www.promtools.org/doku.php?id=exercises:start)
+- [ProM Tools](http://www.promtools.org/doku.php)
 - [Disco](https://fluxicon.com/disco/)
 - [RapidMiner](https://rapidminer.com/), [RapidProM](https://www.rapidprom.org/)
 
